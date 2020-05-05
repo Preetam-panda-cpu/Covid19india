@@ -1,0 +1,505 @@
+body{
+    background-color:white;
+    padding:0;
+    margin:0;
+}
+/*logo section css starts here*/
+#logoBlock article{
+    background: #2c498d;
+    height:57px;
+}
+#logoBlock article div img{
+    margin-left: 60px;
+    margin-top:5px;
+}
+#logoBlock article div  p{
+    color: white;
+    margin-left: 108px;
+    margin-top: -31px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.rightmenu a{
+     text-decoration: none;
+    color: white;
+    float: right;
+     margin-top: -34px;
+    padding-right: 348px;
+}
+#logoBlock article .rightmenu{
+    border-right:1px solid #eee;
+}
+#logoBlock article .user_accessibility img{
+   float: right;
+  margin-top: -43px;
+    padding-right: 313px;
+    height: 39px;
+}
+#logoBlock article .social-area img{
+    float: right;
+    margin-top: -35px;
+    padding-right: 279px;
+    height: 20px;
+    background: no-repeat;
+}
+#logoBlock article  .facebook img{
+       float: right;
+    margin-top: -35px;
+    padding-right: 249px;
+    height: 20px;
+    background: no-repeat;
+    width: 16px;
+}
+#logoBlock article .one{
+    float: right;
+    height: 20px;
+    background: no-repeat;
+    width: 21px;
+}
+#logoBlock article .button1{
+    float: right;
+    margin-top: -35px;
+    padding-right: 148px;
+}
+#logoBlock article .button1 button{
+        height: 44px;
+    width: 67px;
+    margin-top: -20px;
+    border: none;
+    color: white;
+    background-color: #4964a4;
+    border-right: 1px solid #4964a4;
+}
+#logoBlock article .button2{
+    float:right;
+        margin-top: -35px;
+    padding-right: 76px;
+}
+#logoBlock article .button2 button{
+    height: 44px;
+    width: 67px;
+    margin-top: -20px;
+    border: none;
+    color: white;
+    background-color: #4964a4;
+}
+/*logo section css ends here*/
+
+/*notification section css starts here*/
+#notification article{
+background-color: #1d3a7c;
+    position: relative;
+    z-index: 999;
+}
+#notification article .leftsite img{
+        margin-left: 60px;
+}
+#notification article .rightside img{
+    position: relative;
+    margin-top: -60px;
+    float: right;
+    padding-right: 188px;
+    height:44px;
+}
+#notification article .rightmenu img{
+        float: right;
+    margin-top: -52px;
+    padding-right: 109px;
+}
+/*notification section css ends here*/
+
+/*flight section css starts here */
+#fights article h1{
+    border-bottom: 1px solid #e0e0e0;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 57px;
+    height: 36px;
+    width: 1219px;
+}
+#fights article img{
+    margin-top: -68px;
+    position: absolute;
+    padding-left: 372px;
+}
+/*flight section css ends here */
+
+/*Dashboard css starts here*/
+#Dashboard article {
+    border-bottom: 1px solid #eee;
+    height: 78px;
+    width: 1366px;
+}
+#Dashboard article p{
+    margin-left: 99px;
+    margin-top: 26px;
+    font-weight: 700;
+    color: #616161;
+    font-size: 1.143em;
+}
+#Dashboard article span{
+    padding-left: 71px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #6c6c6c;
+}
+#Dashboard article .active button{
+margin-top: -55px;
+    position: absolute;
+    margin-left: 363px;
+    height: 57px;
+    width: 191px;
+    background-color: aqua;
+    border: none
+}
+.active i{
+    display: block;
+    margin-top: -55px;
+    position: absolute;
+    margin-left: 363px;
+    height: 57px;
+    width: 191px;
+}
+.active button img{
+        margin-left: -70px;
+    margin-bottom: -21px;
+    font-weight: bold;
+    font-size: 14px;
+    font-style: normal;
+    margin-right: 18px;
+}
+#Dashboard article .cured button{
+    margin-left: 583px;
+    margin-top: -54px;
+    position: absolute;
+    background-color:#cdf97d;
+    border:none;
+        width: 196px;
+    height: 56px;
+}
+.cured button img{
+     margin-left: -119px;
+}
+.cured  i{
+      display: block;
+    margin-top: -55px;
+    position: absolute;
+    margin-left: 363px;
+    height: 57px;
+    width: 191px;
+}
+#Dashboard article .cured  p{
+    margin-top: -36px;
+    font-size: 10px;
+    margin-left: 22px;
+}
+#Dashboard article .death button{
+    margin-left: 814px;
+    margin-top: -52px;
+    position: absolute;
+    width: 192px;
+    height: 55px;
+    border: none;
+    background-color: #fe8683;
+}
+#Dashboard article .death button img{
+      margin-top: -2px;
+    font-size: 10px;
+    margin-left: -99px;
+}
+#Dashboard article .death p{
+    margin-top: -36px;
+    font-size: 13px;
+    margin-left: 22px;
+}
+#Dashboard article .Migrated button{
+        margin-top: -48px;
+    margin-right: 134px;
+    float: right;
+    height: 51px;
+        background-color: #f6ce68;
+    border: none;
+}
+#Dashboard article .Migrated button img{
+    margin-left: -84px;
+    margin-top: 2px;
+}
+#Dashboard article .Migrated button p{
+margin-top: -46px;
+    margin-left: 105px;
+    margin-right: 22px;
+}
+/*Dashboard css ends here*/
+
+/*Download css starts here*/
+#download article div img{
+    margin-top: 56px;
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/*Download css ends here*/
+
+/*Helpline section css starts here*/
+#Helpline article{
+    border-bottom:none;
+}
+#Helpline article .one header{
+    width: 24%;
+    position: relative;
+    background-color: #f8c7ce;
+    padding-top: 40px;
+    color: #fff;
+    margin-left: 13px;
+    margin-top: 9px;
+    
+}
+#Helpline article .one header p{
+    color: #c1172f;
+    margin-left: 48px;
+    margin-top: -2px;
+    height: 100px;
+}
+ #Helpline article .one footer p{
+    margin-left: 2px;
+    position:absolute;
+    margin-top: -17px;
+    color: white;
+    background-color: #c1172f;
+    width: 323px;
+    height:26px;
+    text-align: center;
+}
+#Helpline article .Two header{
+    width: 24%;
+    position: relative;
+    background: #d9d5f4;
+    padding-top: 40px;
+    color: #fff;
+    margin-left: 362px;
+    margin-top: -147px
+}
+#Helpline article .Two header p{
+    color: #5849b4;
+}
+#Helpline article .Two footer p{
+    color: white;
+    background-color: #5849b4;
+    width: 327px;
+    margin-left: 0px;
+    text-align: center;
+}
+#Helpline article .Three header{
+   width: 24%;
+    position: relative;
+    background: #d9d5f4;
+    padding-top: 40px;
+    color: #fff;
+    margin-left: 705px;
+    margin-top: -170px;
+        height: 92px;
+}
+#Helpline article .Three header p{
+    color: #5aab38;
+    margin-left: 47px;
+}
+#Helpline article .Three footer p{
+    color: white;
+    background: #5aab38;
+    position: absolute;
+    margin-left: 1px;
+    width: 326px;
+    margin-top: 5px;
+    text-align: center;
+}
+#Helpline article .four header {
+  width: 21%;
+    position: relative;
+    background: #cae8f7;
+    padding-top: 40px;
+    color: #fff;
+    margin-left: 1043px;
+    margin-top: -131px;
+    height: 92px;
+}
+#Helpline article .four header p{
+    color: #2488b9;
+
+}
+#Helpline article .four footer p{
+margin-left: 0px;
+    background-color: #2488b9;
+    margin-top: 24px;
+    text-align: center;
+    color: white;
+}
+/*Helpline section css ends here*/
+
+/*paragraph section  css starts here*/
+#paragraph article{
+    border-bottom: none;
+}
+#paragraph article div p{
+margin-top: 103px;
+        margin-left: 82px;
+    font-size: 1.143em;
+    font-weight: normal;
+    color: #6c6c6c;
+    border:none;
+}
+/*paragraph section  css ends here*/
+
+/*Mygov Social hub section css starts here*/
+#Mygov article div h2{
+    margin-left: 59px;
+    margin-top: 37px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.429em;
+    position: relative;
+}
+#Mygov article .one header{
+ width: 16%;
+    position: relative;
+    background: #209c2e;
+    padding-top: 40px;
+    color: #fff;
+        height: 135px;
+    margin-left: 90px;  
+}
+#Mygov article .one header img{
+   width: 75px;
+    margin-top: -25px;
+    margin-left: 53px;
+}
+#Mygov article .one header footer p{
+margin-top: 11px;
+    margin-left: 32px;
+    color: white
+}
+#Mygov article  .Two header{
+    width: 16%;
+    position: relative;
+    background: #1b7acd;
+    height: 170px;
+    color: #fff;
+    margin-left: 327px;
+    margin-top: -171px;
+}
+#Mygov article  .Two header img{
+    width: 80px;
+    margin-top: 18px;
+    margin-left: 53px;
+}
+#Mygov article  .Two p{
+    margin-top: 9px;
+    margin-left: 45px;
+    color: white;
+    font-size: 110%;
+}
+#Mygov article .Three header{
+    width: 16%;
+    position: relative;
+    background: #2e4780;
+    height: 170px;
+    color: #fff;
+    margin-left: 563px;
+    margin-top: -171px;
+}
+#Mygov article .Three header img{
+    width: 80px;
+        margin-left: 58px;
+    margin-top: 17px;
+}
+#Mygov article .Three footer p{
+    margin-top: 9px;
+    margin-left: 45px;
+    color: white;
+    font-size: 110%;
+}
+#Mygov article .four header{
+    width: 16%;
+    position: relative;
+    background: #2e4780;
+    height: 170px;
+    color: #fff;
+    margin-left: 800px;
+    margin-top: -171px;
+}
+#Mygov article .four header img{
+    width: 100px;
+    margin-top: 3px;
+    margin-left: 48px;
+}
+#Mygov article .four footer p{
+    margin-top: 12px;
+    margin-left: 49px;
+    color: white;
+}
+#Mygov article .five header{
+   width: 16%;
+    position: relative;
+    background: #d42428;
+    height: 170px;
+    color: #fff;
+    margin-left: 1035px;
+    margin-top: -171px; 
+}
+#Mygov article .five header img{
+    width: 80px;
+    margin-top: 9px;
+    margin-left: 63px;
+}
+#Mygov article .five  footer p{
+    margin-top: 42px;
+    margin-left: 49px;
+    color: white;
+}
+/*Mygov Social hub section css ends here*/
+
+/*image section  css starts here*/
+#last article div img{
+    margin-top: 3px;
+}
+#last article div p{
+    padding-left: 465px;
+    margin-top: -29px;
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+}
+/*image section  css ends here*/
+
+/*buster section ends here*/
+#buster article h2{
+    margin-left: 103px;
+    margin-top: 37px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-size: 1.429em;
+    position: relative;
+    margin-bottom: 20px;
+}
+#buster article .one img{
+    width: 350px;
+    height: 150px;
+    position: absolute;
+    margin-left: 115px;
+}
+#buster article .Two img{
+ width: 350px;
+    height: 150px;
+    position: absolute;
+    margin-left: 416px;
+}
+#buster article .Three img{
+    width: 350px;
+    height: 150px;
+    position: absolute;
+    margin-left: 718px;
+}
+/*buster section ends here*/
